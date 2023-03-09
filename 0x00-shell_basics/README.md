@@ -13,3 +13,8 @@
 12-file_type tells more about the type of a file
 13-symbolic_link creates a link like a shortcut icon in windows for files
 14-copy_html enables you fetch new updates of html files in the working directory into the parent folder
+100-lets_move relocates all files starting with capital letter into /tmp/u
+101-clean_emacs deletes all emacs files
+102-tree creates a tree folder with just two spaces
+103-commas list objects with commas between them
+school.mgc is a magic file that would be used with the file command
